@@ -31,7 +31,7 @@ npm --version
 
 ## License
 
-(LICENSE)[LICENSE]
+[LICENSE](LICENSE)
 
 ## Version
 
@@ -39,4 +39,4 @@ npm --version
 
 ## References
 
-- (https://www.npmjs.com/package/@wordpress/scripts)[https://www.npmjs.com/package/@wordpress/scripts]
+- [https://www.npmjs.com/package/@wordpress/scripts](https://www.npmjs.com/package/@wordpress/scripts)
